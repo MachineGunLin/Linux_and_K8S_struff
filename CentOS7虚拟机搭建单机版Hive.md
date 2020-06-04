@@ -2,7 +2,7 @@
 
 ## 1、安装JDK1.8、Hadoop3.2.0和Mysql5.7.30
 
-jdk和Hadoop的配置可以参考[链接]([https://github.com/MachineGunLin/Linux_and_K8S_stuff/blob/master/CentOS%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%83%A8%E7%BD%B2Hadoop-3.2.0(%E5%8D%95%E8%8A%82%E7%82%B9%E3%80%81%E4%BC%AA%E5%88%86%E5%B8%83%E5%BC%8F).md](https://github.com/MachineGunLin/Linux_and_K8S_stuff/blob/master/CentOS虚拟机部署Hadoop-3.2.0(单节点、伪分布式).md)
+jdk和Hadoop的配置可以参考[链接](https://github.com/MachineGunLin/Linux_and_K8S_stuff/blob/master/CentOS%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%83%A8%E7%BD%B2Hadoop-3.2.0(%E5%8D%95%E8%8A%82%E7%82%B9%E3%80%81%E4%BC%AA%E5%88%86%E5%B8%83%E5%BC%8F.md](https://github.com/MachineGunLin/Linux_and_K8S_stuff/blob/master/CentOS虚拟机部署Hadoop-3.2.0(单节点、伪分布式).md)
 
 mysql的配置可以参考[这个链接](https://blog.csdn.net/cool_summer_moon/article/details/106090136)
 
