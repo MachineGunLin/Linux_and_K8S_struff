@@ -55,7 +55,7 @@ mysql的配置可以参考[这个链接](https://blog.csdn.net/cool_summer_moon/
 
 >  vim hive-site.xml
 
- ![image-20200604204819659](C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200604204819659.png)
+ ![image-20200604204819659](./pic/image-20200604204819659.png)
 
 > cp hive-env.sh.template hive-env.sh
 
@@ -101,7 +101,7 @@ mysql的配置可以参考[这个链接](https://blog.csdn.net/cool_summer_moon/
 
 
 
-![image-20200604205745901](C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200604205745901.png)
+![image-20200604205745901](./pic/image-20200604205745901.png)
 
 
 
@@ -123,4 +123,4 @@ mysql的配置可以参考[这个链接](https://blog.csdn.net/cool_summer_moon/
 
 
 
-![image-20200604205935732](C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200604205935732.png)
+![image-20200604205935732](./pic/image-20200604205935732.png)
