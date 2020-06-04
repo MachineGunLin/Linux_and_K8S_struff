@@ -6,7 +6,7 @@
 
 到[Scala官网](https://www.scala-lang.org/download/2.12.2.html)上下载一下scala-2.12.2.tgz
 
-![img](https://ask.qcloudimg.com/http-save/yehe-2302547/4minrr266d.png?imageView2/2/w/1620)
+![img](./pic/4minrr266d.png)
 
 把压缩包放到虚拟机的/opt/scala目录下，随后进行解压:
 
@@ -18,7 +18,7 @@
 
 > ls
 
-![image-20200604224520694](C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200604224520694.png)
+![image-20200604224520694](./pic/image-20200604224520694.png)
 
 修改环境变量:
 
@@ -37,7 +37,7 @@
 
 > scala -version
 
-![image-20200604224840671](C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200604224840671.png)
+![image-20200604224840671](./pic/image-20200604224840671.png)
 
 到此scala安装完成，下面安装Spark。
 
@@ -49,7 +49,7 @@ Spark我下载的压缩包是spark-3.0.0-preview2-bin-hadoop3.2.tgz，放到了/
 >
 > ls
 
-![image-20200604225152518](C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200604225152518.png)
+![image-20200604225152518](./pic/image-20200604225152518.png)
 
 在/etc/profile中添加环境变量:
 
@@ -89,7 +89,7 @@ ls一下，可以发现有一个模板文件，copy一份:
 
 > ./bin/run-example SparkPi 10
 
-![image-20200604230019863](C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200604230019863.png)
+![image-20200604230019863](./pic/image-20200604230019863.png)
 
 ## 启动Spark Shell
 
@@ -97,6 +97,6 @@ ls一下，可以发现有一个模板文件，copy一份:
 >
 > ./bin/spark-shell
 
-![image-20200604230350673](C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200604230350673.png)
+![image-20200604230350673](./pic/image-20200604230350673.png)
 
 单机版的Spark安装完成！
