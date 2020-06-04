@@ -70,6 +70,6 @@ HBase2.2.5下载地址：https://www.apache.org/dyn/closer.lua/hbase/2.2.5/hbase
 
 > jps
 
-![image-20200604223342928](C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200604223342928.png)
+![image-20200604223342928](./pic/image-20200604223342928.png)
 
 能看到HMaster，说明安装成功。
