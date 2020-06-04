@@ -26,19 +26,19 @@
 
 进入[JDK下载地址](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)，获取需要的版本，这里我们下载***jdk-8u201-linux-x64.tar.gz***文件。
 
-![image-20200604195824685](C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200604195824685.png)
+![image-20200604195824685](./pic/image-20200604195824685.png)
 
 然后我们下载一下[hadoop-3.2.0](https://archive.apache.org/dist/hadoop/common/hadoop-3.2.0/)
 
 下载hadoop-3.2.0.tar.gz:
 
-![image-20200604200120933](C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200604200120933.png)
+![image-20200604200120933](./pic/image-20200604200120933.png)
 
 下载好后用xftp将两个安装包拷贝到software目录下：
 
-![image-20200604200309882](C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200604200309882.png)
+![image-20200604200309882](./pic/image-20200604200309882.png)
 
-![image-20200604200328726](C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200604200328726.png)
+![image-20200604200328726](./pic/image-20200604200328726.png)
 
 传输结束后退出xtfp, software目录下已有jdk和hadoop的压缩包。
 
@@ -78,7 +78,7 @@
 
 > java -version
 
-![image-20200604200926018](C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200604200926018.png)
+![image-20200604200926018](./pic/image-20200604200926018.png)
 
 java版本是1.8.0，说明jdk安装成功
 
@@ -94,7 +94,7 @@ java版本是1.8.0，说明jdk安装成功
 
 > ls
 
-![image-20200604201105465](C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200604201105465.png)
+![image-20200604201105465](./pic/image-20200604201105465.png)
 
 ### 6.2 在Hadoop的配置文件etc/hadoop-env.sh中配置java环境
 
@@ -116,7 +116,7 @@ java版本是1.8.0，说明jdk安装成功
 
 > bin/hadoop version
 
-![image-20200604201907848](C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200604201907848.png)
+![image-20200604201907848](./pic/image-20200604201907848.png)
 
 版本正确，稳的。
 
@@ -126,4 +126,4 @@ java版本是1.8.0，说明jdk安装成功
 
 有两个运行方式，单机运行和伪分布式运行，因为不是必须做的而且过程有点长，我就不记录了。可以看这个[链接](https://blog.csdn.net/u010476739/article/details/86647585)的第7点和第8点，只需要一步一步复制粘贴命令运行即可。
 
-![image-20200604202320862](C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200604202320862.png)
+![image-20200604202320862](./pic/image-20200604202320862.png)
