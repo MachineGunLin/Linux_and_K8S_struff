@@ -31,7 +31,8 @@
 > export SCALA_HOME=/opt/scala/scala-2.12.2
 > export PATH=$PATH:${HIVE_HOME}/bin:${SCALA_HOME}/bin:
 
-文件的结尾如上所示，这一步我们加入了SCALA_HOME，并且在PATH中加入了**${SCALA_HOME}/bin:**
+文件的结尾如上所示，这一步我们加入了SCALA_HOME，并且在PATH中加入了
+> ${SCALA_HOME}/bin:
 
 验证一下scala版本是否正确:
 
