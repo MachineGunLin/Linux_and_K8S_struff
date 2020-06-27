@@ -2,15 +2,13 @@
 
 ## 1、更新系统 安装常用软件
 
-> yum update -y & yum install git wget vim -y
 
-如果报错，有可能是因为两条命令一起执行的原因造成的，可以分别执行
 
 > yum update -y 
 >
 > yum install git wget vim -y
 
-这样就可以了。
+
 
 ### 部署最新的docker版本并且将源替换为阿里云源
 
