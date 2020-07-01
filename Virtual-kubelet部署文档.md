@@ -154,7 +154,7 @@
 
 13.  编译成功之后会产生一个可执行文件**virtual-kubelet**, 在openstack-zun目录下的bin目录里。
 
-    ![image-20200701142650686](https://raw.githubusercontent.com/MachineGunLin/markdown_pics/master/img/20200701142650.png)
+    ![image-20200701145817442](https://raw.githubusercontent.com/MachineGunLin/markdown_pics/master/img/20200701145817.png)
 
 14. 在/root下创建一个文件夹vk_related_files，用来存放virtual_kubelet可执行文件以及openstack controller的认证文件，还有virtual-kubelet的启动脚本。创建之后把需要的文件 (virtual-kubelet可执行文件, 认证文件admin-openrc.sh, 启动脚本vk.sh) 放到目录下。
 
